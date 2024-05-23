@@ -5,9 +5,9 @@ Accessibility: Work on the new EPUB reader application - Arianna
 
 ## Contact Info
 Name - `Arpit Jain`  
-Matrix - `@osbins:matrix.org`  
-Telegram - `arpitxj`  
-Email - `arpitjain[dot]2001[at]gmail[dot]com`  
+Matrix - `@####:matrix.org`  
+Telegram - `####`  
+Email - `#######[at]gmail[dot]com`  
 Timezone - `GMT +5:30`
 
 ## Abstract
